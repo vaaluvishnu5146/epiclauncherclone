@@ -1,12 +1,11 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![epic launcher clone](https://github.com/vaaluvishnu5146/epiclauncherclone/assets/22257731/ee9944ad-9cc7-4fae-b4d8-b6d568ee48e3)
 
-## Available Scripts
+# Step 1: npm install
 
-In the project directory, you can run:
+Will install all necessary dependencies
 
-### `npm start`
+### Step 2: `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
