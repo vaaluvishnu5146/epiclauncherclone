@@ -1,5 +1,5 @@
 
-![epic launcher clone](https://github.com/vaaluvishnu5146/epiclauncherclone/assets/22257731/ee9944ad-9cc7-4fae-b4d8-b6d568ee48e3)
+![epic launcher clone](https://github.com/vaaluvishnu5146/epiclauncherclone/assets/22257731/88d19079-056b-40dc-a37d-d4646545bd5f)
 
 # Step 1: npm install
 
