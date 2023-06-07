@@ -1,36 +1,1308 @@
 {
   "data": [
     {
-      "name": "GTA - GRAND THEFT AUTO V",
-      "picture": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=480&quality=medium&resize=1&w=360",
+      "picture": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=480&quality=medium&resize=1&w=360",
       "gameType": "BASE GAME",
-      "offer": "50%",
-      "actualPrice": "2341",
-      "sellingPrice": "1600"
+      "name": "Grand Theft Auto V: Premium Edition",
+      "offer": "-50%",
+      "actualPrice": "₹2,321.44",
+      "sellingPrice": "₹1,160.72",
+      "category": "Killer"
     },
     {
-      "name": "EA SPORTS™ FIFA 23 Standard Edition",
-      "picture": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S2_1200x1600-c806355d9cc8b35ebe392f2a7db03075?h=480&quality=medium&resize=1&w=360",
+      "picture": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?h=480&quality=medium&resize=1&w=360",
       "gameType": "BASE GAME",
-      "offer": "50%",
-      "actualPrice": "2341",
-      "sellingPrice": "1600"
-    },
-    {
       "name": "Red Dead Redemption 2",
-      "picture": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic%20Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?h=480&quality=medium&resize=1&w=360",
-      "gameType": "BASE GAME",
-      "offer": "50%",
-      "actualPrice": "2341",
-      "sellingPrice": "1600"
+      "offer": "-67%",
+      "actualPrice": "₹3,199",
+      "sellingPrice": "₹1,055.67",
+      "category": "Killer"
     },
     {
-      "name": "Cyber punk 2077",
       "picture": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?h=480&quality=medium&resize=1&w=360",
       "gameType": "BASE GAME",
-      "offer": "50%",
-      "actualPrice": "2341",
-      "sellingPrice": "1600"
+      "name": "Cyberpunk 2077",
+      "offer": "-50%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹1,499.50",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/af0ea01162704696bebf8633a52a7a6d/EGS_CrimeBossRockayCity_INGAMESTUDIOS_S2_1200x1600-589327a4d212fe00efed9cbf7fd5841e_1200x1600-589327a4d212fe00efed9cbf7fd5841e?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Crime Boss: Rockay City",
+      "offer": "-20%",
+      "actualPrice": "₹2,599",
+      "sellingPrice": "₹2,079.20",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/0a9e3c5ab6684506bd624a849ca0cf39/EGS_DeathStrandingDirectorsCut_KOJIMAPRODUCTIONS_S4_1200x1600-5f99e16507795f9b497716b470cfd876?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "DEATH STRANDING DIRECTOR'S CUT",
+      "offer": "-40%",
+      "actualPrice": "₹2,599",
+      "sellingPrice": "₹1,559.40",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Far Cry 6 Standard Edition",
+      "offer": "-75%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹749.75",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S2_1200x1600-76424286902489f4d9639ac9b735c2b2?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Marvel's Spider-Man Remastered",
+      "offer": "-33%",
+      "actualPrice": "₹3,999",
+      "sellingPrice": "₹2,679.33",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "God of War",
+      "offer": "-40%",
+      "actualPrice": "₹3,299",
+      "sellingPrice": "₹1,979.40",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DyingLight2StayHuman_Techland_S4_1200x1600-b3d66b4576fd6488b674710e13493435?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Dying Light 2 Stay Human",
+      "offer": "-50%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹1,499.50",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/93355ea9787b4a4f908caed5438125b3/download-tortuga--a-pirates-tale-offer-3r1pe.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Tortuga - A Pirate's Tale",
+      "offer": "-10%",
+      "actualPrice": "₹1,399",
+      "sellingPrice": "₹1,259.10",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/8ae7b3c0f490471b967ce26cc2f6e0e6/EGS_ItTakesTwo_Hazelight_S2_1200x1600-5c82de2d2e21a841dd06ec27e082777e_1200x1600-5c82de2d2e21a841dd06ec27e082777e?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "It Takes Two",
+      "offer": "-50%",
+      "actualPrice": "₹2,199",
+      "sellingPrice": "₹1,099.50",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Saints Row",
+      "offer": "-55%",
+      "actualPrice": "₹1,859",
+      "sellingPrice": "₹836.55",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/carnation/Carousel_BoxArt_1200x1600_1200x1600-6888b9d57181d8fcfb3472a7f70ecc49?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Tom Clancy's Rainbow Six® Siege",
+      "offer": "-60%",
+      "actualPrice": "₹999",
+      "sellingPrice": "₹399.60",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/52f57f57120c440fad9bfa0e6c279317/EGS_Battlefield2042_DICE_S2_1200x1600-ed71f5e6188d8c4c411947f4b1fc59bc?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Battlefield™ 2042",
+      "offer": "-75%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹749.75",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/9acb0d22292b48acaeb0eb38b391df93/EGS_NeedforSpeedUnbound_CriterionGames_S2_1200x1600-9633e095cbd48726c6025f64d3114bb8?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Need for Speed™ Unbound Standard Edition",
+      "offer": "-70%",
+      "actualPrice": "₹3,499",
+      "sellingPrice": "₹1,049.70",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/9f4875c1b0cf4cf19b28e203fc7aff07/offer/EGS_Brutalopenworldactionadventuregame_BendStudio_S2-1200x1600-e1c183cc11fdb47e26581e5ba19aa10a.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Days Gone",
+      "offer": "-67%",
+      "actualPrice": "₹3,299",
+      "sellingPrice": "₹1,088.67",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/4ec958d5e4b6429aadbc116cee0b6ea0/EGS_DeadSpace_MotiveStudio_S2_1200x1600-551c16d068cab45b02149e15a43c2413?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Dead Space",
+      "offer": "-20%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹2,399.20",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Assassin's Creed® Valhalla Standard Edition",
+      "offer": "-75%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹749.75",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/fe752703dd2042008ff874fc8642fba3/EGS_GrandTheftAutoTheTrilogyTheDefinitiveEdition_RockstarGames_S2_1200x1600-7a39d7c91aed7cf7c5fafdca4dbb9d1c?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BUNDLE",
+      "name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "offer": "-50%",
+      "actualPrice": "₹3,299",
+      "sellingPrice": "₹1,649.50",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANWorldofAssassination_IOInteractiveAS_Bundles_S2_1200x1600-1f5eb0ca3e8855875b9f0757748337b4?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "HITMAN World of Assassination",
+      "offer": "-45%",
+      "actualPrice": "₹2,509",
+      "sellingPrice": "₹1,379.95",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/4c461792757541e99c4a16c00834c956/EGS_Returnal_HousemarqueClimaxStudios_S2_1200x1600-617cb4daee4cf45fa937304bceb60a81?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "offer": "-20%",
+      "actualPrice": "₹3,999",
+      "sellingPrice": "₹3,199.20",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S2_1200x1600-99737fa8a749438ca909c776a4cd9b89?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Goat Simulator 3",
+      "offer": "-35%",
+      "actualPrice": "₹1,874",
+      "sellingPrice": "₹1,218.10",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/oregano/an18-store-portrait-1200x1600-1200x1600-665115795_1200x1600-a714948f3c93306d618c279edded0525?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Anno 1800 Standard Edition",
+      "offer": "-75%",
+      "actualPrice": "₹3,129",
+      "sellingPrice": "₹782.25",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Ghost Recon Breakpoint Standard Edition",
+      "offer": "-80%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹599.80",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_MAD_STD_GAME_EPIC_Store_Portrait_1200x1600_EN_1200x1600-ddd4f456e3035ce50ddfa0d358efa208?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Riders Republic",
+      "offer": "-75%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹749.75",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_PortraitImage_860x1148-860x1148-bdf591a23e5a348671dc2a77465d0ba6c5871d68-860x1148-5a5adeae2140a3f0b5586750f70bf8e2-860x1148-5a5adeae2140a3f0b5586750f70bf8e2.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "offer": "-45%",
+      "actualPrice": "₹1,199",
+      "sellingPrice": "₹659.45",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/4cbfe407ada24702a556b6e4d28a8800/EGS_WILDHEARTSStandardEdition_KOEITECMOGAMESCOLTD_S2_1200x1600-398fdb8dbc918051f99347ebe0335973?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "WILD HEARTS™ Standard Edition",
+      "offer": "-30%",
+      "actualPrice": "₹3,499",
+      "sellingPrice": "₹2,449.30",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/236c74b4cd2e4e3099cbe2ebdc9686fd/EGS_DeadIsland2_DeepSilverDambusterStudios_S1_2560x1440-fdc688ce46680914ee3c4a7949ce8a67?h=480&quality=medium&resize=1&w=854",
+      "gameType": "BASE GAME",
+      "name": "Dead Island 2",
+      "offer": "-20%",
+      "actualPrice": "₹3,299",
+      "sellingPrice": "₹2,639.20",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S1_2560x1440-aaf9c5273c27a485f2cce8cb7e804f5c?h=480&quality=medium&resize=1&w=854",
+      "gameType": "BASE GAME",
+      "name": "EA SPORTS™ FIFA 23 Standard Edition",
+      "offer": "-70%",
+      "actualPrice": "₹3,499",
+      "sellingPrice": "₹1,049.70",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S1_2560x1440-a0518b9f9f36a05294e37448df8a27a0?h=480&quality=medium&resize=1&w=854",
+      "gameType": "BASE GAME",
+      "name": "Marvel’s Spider-Man: Miles Morales",
+      "offer": "-33%",
+      "actualPrice": "₹3,299",
+      "sellingPrice": "₹2,210.33",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_MidnightGhostHunt_VaultedSkyGames_S1_2560x1440-05551e661e36a253a7ecd4ead27b58bc?h=480&quality=medium&resize=1&w=854",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813?h=480&quality=medium&resize=1&w=854",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/fn/24BR_S24_EGS_Launcher_Blade_2560x1440_2560x1440-437d0424d02f5fd286ab659ddade30db?h=480&quality=medium&resize=1&w=854",
+      "gameType": "BASE GAME",
+      "sellingPrice": "Free",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/fn/EN_EpicGames_UEFN_S3_2560x1440_2560x1440-1ce3e31d9d7a5c66c2a426f6b0b62f2f?h=480&quality=medium&resize=1&w=854",
+      "gameType": "ADD-ON",
+      "name": "Unreal Editor For Fortnite",
+      "sellingPrice": "Free",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/fn/EN_24BR_ZeroBuild_EGS_Landscape_2560x1440_2560x1440-36c55fee33e86397cbeedd5ce58a1135?h=480&quality=medium&resize=1&w=854",
+      "gameType": "ADD-ON",
+      "name": "Fortnite Zero Build: No-Build Battle Royale",
+      "sellingPrice": "Free",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S2_1200x1600-fd1c62ebc097dd1a1e3a520d8a0b2334?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Ghostrunner 2",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Marvel’s Spider-Man: Miles Morales",
+      "offer": "-33%",
+      "actualPrice": "₹3,299",
+      "sellingPrice": "₹2,210.33",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/552a139c67e949ea8f8ea9a1d9d81cdb/EGS_HOTWHEELSUNLEASHED2Turbocharged_MilestoneSrl_S2_1200x1600-0e833622fb4d68ebb7d4788a8239cf66?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "HOT WHEELS UNLEASHED 2 - Turbocharged™",
+      "sellingPrice": "₹2,499",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/8b2f4c9ee4e74d05b801565de8fd4500/EGS_TheExpanseATelltaleSeries_DeckNine_S2_1200x1600-b88cb894647cef6fa33c2530a5be4739?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Expanse - A Telltale Series",
+      "sellingPrice": "₹1,429",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/e7a7215121c242e29d6f3b69d661b918/cepheus-protocol-gxnee.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Cepheus Protocol",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/affc33b82405457595a032f00284abd2/KF2_1200x1600-cc435d1b298b51615ca8dc916d391b68?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Killing Floor 2",
+      "offer": "-75%",
+      "actualPrice": "₹745",
+      "sellingPrice": "₹186.25",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/3d47b5f5c8474ef3abff7c7014afe650/the-silent-city-chapter-1-5onus.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Silent City Chapter 1",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/7e2ec8a47b8d41528eb6dd2efd2b1abc/StandardTall_1200x1600-7cb2cda8741f9b56a4c1cbb3e7dc9b3e?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Disney Dreamlight Valley",
+      "offer": "-25%",
+      "actualPrice": "₹1,624",
+      "sellingPrice": "₹1,218",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/54b11a9cf0b742348c7c344204523b69/return-to-abyss-18ze1.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Return to Abyss 重返深渊",
+      "sellingPrice": "₹250",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/94a192c43a40421c942c57c99e005fcf/battle-ram-99i10.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Battle Ram",
+      "offer": "-20%",
+      "actualPrice": "₹139",
+      "sellingPrice": "₹111.20",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/9acb0d22292b48acaeb0eb38b391df93/EGS_NeedforSpeedUnbound_CriterionGames_S2_1200x1600-9633e095cbd48726c6025f64d3114bb8?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Need for Speed™ Unbound Standard Edition",
+      "offer": "-70%",
+      "actualPrice": "₹3,499",
+      "sellingPrice": "₹1,049.70",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S2_1200x1600-76424286902489f4d9639ac9b735c2b2?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Marvel's Spider-Man Remastered",
+      "offer": "-33%",
+      "actualPrice": "₹3,999",
+      "sellingPrice": "₹2,679.33",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.portrait-1200x1600-1fbe282ac882fdd909782b6820894fbf.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "3 out of 10, EP 4: Thank You For Being An Asset",
+      "sellingPrice": "Free",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/93355ea9787b4a4f908caed5438125b3/download-tortuga--a-pirates-tale-offer-3r1pe.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Tortuga - A Pirate's Tale",
+      "offer": "-10%",
+      "actualPrice": "₹1,399",
+      "sellingPrice": "₹1,259.10",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/8de58df378c34407b6db0388e0470a45/offer/EGS_AmnesiaAMachineforPigs_TheChineseRoom_S2-860x1148-c01e8b083d04dd0cdf76ee2390bc1cce.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Amnesia: A Machine for Pigs",
+      "offer": "-85%",
+      "actualPrice": "₹469",
+      "sellingPrice": "₹70.35",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/offer/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06261861317a4d878f0391cbcf127a5a.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Amnesia: Rebirth",
+      "offer": "-85%",
+      "actualPrice": "₹707",
+      "sellingPrice": "₹106.05",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/964f58c4c2074404bf9c359483ab1a48/EGS_MidnightGhostHunt_VaultedSkyGames_S2_1200x1600-d7dc1bb773a7ec5987e756f53219fa16?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Midnight Ghost Hunt",
+      "offer": "-100%",
+      "actualPrice": "₹719",
+      "sellingPrice": "Free",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/78f42129096d4233bccc527733debfbd/EGS_Outlast_RedBarrels_S2_1200x1600-b02ebdfb4bcd3b1d608ab5b87257b3c4?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "offer": "-85%",
+      "actualPrice": "₹469",
+      "sellingPrice": "₹70.35",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Frostpunk2_11bitstudios_S2_1200x1600-79b761d42eeb1252590582029857c96f?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Frostpunk 2",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Jurassic World Evolution 2",
+      "offer": "-75%",
+      "actualPrice": "₹2,449",
+      "sellingPrice": "₹612.25",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "ARK: Survival Evolved",
+      "sellingPrice": "₹469",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S2_1200x1600-d8bfc7469c81f5afb05e7b725c7cecfa?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Auto Chess",
+      "sellingPrice": "Free",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Witcher 3: Wild Hunt – Complete Edition",
+      "offer": "-70%",
+      "actualPrice": "₹1,413",
+      "sellingPrice": "₹423.90",
+      "category": "Racing"
+    },
+    {
+      "gameType": "EDITOR",
+      "name": "Bus Simulator 18 Editor",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/oregano/an18-store-portrait-1200x1600-1200x1600-665115795_1200x1600-a714948f3c93306d618c279edded0525?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Anno 1800 Standard Edition",
+      "offer": "-75%",
+      "actualPrice": "₹3,129",
+      "sellingPrice": "₹782.25",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/6bc8a9dde78f4e86805f6131059000d6/tracks-of-triumph-retro-blast-1kg63.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Tracks of Triumph Retro Blast",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/66ce501aea0a424cb80cfe5f31f80f03/EGS_RogueLegacy_CellarDoorGames_S2_1200x1600-0c21e16789c61834252b65db0847585a?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Rogue Legacy",
+      "offer": "-80%",
+      "actualPrice": "₹349",
+      "sellingPrice": "₹69.80",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/offer/EGS_TorchlightII_RunicGames_S2-1200x1600-39504450e62136e79307e2493e48ef8d.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Torchlight II",
+      "offer": "-65%",
+      "actualPrice": "₹560",
+      "sellingPrice": "₹196",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/3a5c77a536854024add2714cbd0fa865/EGS_RoboCopRogueCity_Teyon_S2_1200x1600-3e666124c2088c599e35700623bef464?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "RoboCop: Rogue City",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/ac7b0dbd78674f1898df0c6e969c2cf7/geojelly-s97ci.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/5a2ea5980ac147c195775039195a3081/EGS_STARWARSJediSurvivorStandardEdition_RespawnEntertainment_S2_1200x1600-fd090aecb23a065b29ea101939798edd?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "STAR WARS Jedi: Survivor™",
+      "sellingPrice": "₹3,499",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/97590ba7ef144232b14093375c468032/EGS_TheWolfAmongUs2_Telltale_S2_1200x1600-28a121945b86101ea1b20cc3d5f86e78?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Wolf Among Us 2",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Escapists 2",
+      "offer": "-75%",
+      "actualPrice": "₹521",
+      "sellingPrice": "₹130.25",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/52f57f57120c440fad9bfa0e6c279317/EGS_Battlefield2042_DICE_S2_1200x1600-ed71f5e6188d8c4c411947f4b1fc59bc?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Battlefield™ 2042",
+      "offer": "-75%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹749.75",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/24285307a56445f1bc5d546df7af3025/EGS_SinsofaSolarEmpire2_IroncladGames_S2_1200x1600-a6b3bd273eaca243fcce3a92b4e786d1?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Sins of a Solar Empire 2",
+      "sellingPrice": "₹939",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Grand Theft Auto V: Premium Edition",
+      "offer": "-50%",
+      "actualPrice": "₹2,321.44",
+      "sellingPrice": "₹1,160.72",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/bf5708c386744107b8a8a24ac707dd0e/EGS_BattlefieldVDefinitiveEdition_DICE_S2_1200x1600-93efffb7c557a05e8affc61d678f4286?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Battlefield V Definitive Edition",
+      "offer": "-75%",
+      "actualPrice": "₹2,599",
+      "sellingPrice": "₹649.75",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/481be01046064a99916a5dec902efc95/bleak-sword-dx-qcj27.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Bleak Sword DX",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/9ecc6568a11e4c9f9f6d358c1f16e9e0/the-sports-trivia-challenge-1c20i.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Sports Trivia Challenge",
+      "sellingPrice": "₹35",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Crew 2 Standard Edition",
+      "offer": "-90%",
+      "actualPrice": "₹2,499",
+      "sellingPrice": "₹249.90",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/dc57439aac3c481aaa52ccb443a4d01a/unrailed-2b1fp.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "offer": "-75%",
+      "actualPrice": "₹489",
+      "sellingPrice": "₹122.25",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/af0ea01162704696bebf8633a52a7a6d/EGS_CrimeBossRockayCity_INGAMESTUDIOS_S2_1200x1600-589327a4d212fe00efed9cbf7fd5841e_1200x1600-589327a4d212fe00efed9cbf7fd5841e?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Crime Boss: Rockay City",
+      "offer": "-20%",
+      "actualPrice": "₹2,599",
+      "sellingPrice": "₹2,079.20",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4Blood_TurtleRockStudios_S4-1200x1600-0cd4ac84bb5491a81aa6ebfcbea9dfbf.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Back 4 Blood: Standard Edition",
+      "offer": "-80%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹599.80",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/236c74b4cd2e4e3099cbe2ebdc9686fd/EGS_DeadIsland2_DeepSilverDambusterStudios_S2_1200x1600-efc5201842cf642eb45f73227cd0789b?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Dead Island 2",
+      "offer": "-20%",
+      "actualPrice": "₹3,299",
+      "sellingPrice": "₹2,639.20",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/74c67e5bccf74d9496a99365101e957f/download-neon-blight-offer-1dbtg.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Neon Blight",
+      "offer": "-60%",
+      "actualPrice": "₹469",
+      "sellingPrice": "₹187.60",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/4cbfe407ada24702a556b6e4d28a8800/EGS_WILDHEARTSStandardEdition_KOEITECMOGAMESCOLTD_S2_1200x1600-398fdb8dbc918051f99347ebe0335973?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "WILD HEARTS™ Standard Edition",
+      "offer": "-30%",
+      "actualPrice": "₹3,499",
+      "sellingPrice": "₹2,449.30",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/7baccfc4db7e49e9a477f709ce30b1e4/starlight-x2-galactic-puzzles-1crag.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Starlight X-2 Galactic Puzzles",
+      "sellingPrice": "₹249",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/04d5b86a93514949a3ace614d9e1e417/download-witchfire-offer-mcfjx.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/c8738a4d1ead40368eab9688b3c7d737/EGS_SkyrimSpecialEdition_BethesdaGameStudios_S2_1200x1600-ae5d13f6510e81460fe80aa1ca19cf4c?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "offer": "-75%",
+      "actualPrice": "₹1,799",
+      "sellingPrice": "₹449.75",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/36a21c249987423a93f8442cc40a0e33/EGS_HadesII_SupergiantGames_S2_1200x1600-5b9eabb0ec69ee64183bd8c7f6a3d987?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Hades II",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/8f858b71535d48a09ea4ddbf60826e50/bugby-9kvxp.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "sellingPrice": "Free",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/301ec0fdbcaf46b3af9322e436ac87bd/EGS_Voidtrain_HypeTrainDigital_S2_1200x1600-482cfae618a56dbe71fa2291560fb545?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "offer": "-10%",
+      "actualPrice": "₹1,300",
+      "sellingPrice": "₹1,170",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/7ad5508d382e46228056f1d1a0189ae2/crucibleTall_1200x1600-91cec11aef6620137bb011fd2c536a28?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Path of Exile",
+      "sellingPrice": "Free",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/72dd01a89ebf422680cf3f228c9728fd/bob-a-thousand-lives-1h4q7.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Bob A thousand lives - Enhanced Edition",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/download-the-lord-of-the-rings-return-to-moria-offer-1bmjr.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Lord of The Rings Return to Moria",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/d27a2e7b36704160ab7b66cb4d82f839/japanese-drift-master-18vpb.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Japanese Drift Master",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/671aee4c8fb64a1c967d97f31f093e7a/amnesia-the-bunker-2sa1q.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Amnesia: The Bunker",
+      "sellingPrice": "₹899",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/82cdb8d1bfff43918ecb33ec6569f7eb/download-indies-lies-offer-pkf6f.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Indies Lies",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/19d5458aa3c849a1b0fff69da4c9ed9d/EGS_EASPORTSPGATOUR_ElectronicArtsTiburon_S2_1200x1600-7450764c15b24fe0900e167e52cbf10a?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "EA SPORTS™ PGA TOUR™",
+      "offer": "-40%",
+      "actualPrice": "₹3,499",
+      "sellingPrice": "₹2,099.40",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/8dff464b344640479314d9cfb8aeab3c/lines-guarder-l696k.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Line's Guarder",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_S2_1200x1600-b2dcbaf7a553d954c2381c6ea759f743?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Suicide Squad: Kill the Justice League",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/c5ec8913ad38441b82a36c603be63e3a/download-flatout-offer-ogxv1.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "offer": "-90%",
+      "actualPrice": "₹119",
+      "sellingPrice": "₹11.90",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/9533b9db84274b15886caa464445a975/EGST_StorePortrait_1200x1600_1200x1600-a030cb924cbadc62205ee9e5abefc6d0?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Crew Motorfest",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/aa598567414d42378187b8861da550f7/EGS_Remnant2_GunfireGames_S2_1200x1600-b0f53d8bfb7471ded53a69c570230c60?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Remnant 2",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/917551a8060244469eb4e6ab8a99cf24/offer/EGS_AmnesiaTheDarkDescent_FrictionalGames_S2-860x1148-473ca730cc2baaaeb9595f11bfc09fda.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Amnesia: The Dark Descent",
+      "offer": "-85%",
+      "actualPrice": "₹521",
+      "sellingPrice": "₹78.15",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/0c05e0889c3e42a4be1d81077d6e653a/SAB_UCS25474_StorePortrait_1200x1600_1200x1600-e4920dda61e58ace182a0a9c25883138?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "SKULL AND BONES™",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/ebc8914d257d475e8d8e1acd36d0a4d6/madcar-f-multiplayer-1sput.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "MADCAR F-1 Multiplayer",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/e49aaa31c1324e398e0b1029a0c6d390/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0_1200x1600-45f2ccbf4fcbf71a059499d0742229f0?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "System Shock",
+      "sellingPrice": "₹2,199",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/epic/offer/Detroit_1280x1440 -1280x1440-920419904339972ae588031cf33804d8.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Detroit: Become Human",
+      "offer": "-50%",
+      "actualPrice": "₹1,899",
+      "sellingPrice": "₹949.50",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/046aeb7098b94ac3961dad6c5dbe68c0/EGS_RatchetClankRiftApart_InsomniacGames_S2_1200x1600-52110dae5ab01644738dac07ac1ea796?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Ratchet & Clank: Rift Apart Pre-Purchase",
+      "sellingPrice": "₹3,999",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/2c71529e78e844e08a5140b943602bcc/oceanhorn-2--knights-of-the-lost-realm-1vlfy.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Oceanhorn 2 - Knights of the Lost Realm",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/e6e393fe527b4d7983b362e1ee566ef6/the-alchemist-of-ars-magna-ov4pv.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Alchemist of Ars Magna",
+      "offer": "-30%",
+      "actualPrice": "₹1,429",
+      "sellingPrice": "₹1,000.30",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/ff11a5792b5f4f55af9a315e11592ca9/download-splitgate-offer-10z5v.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/clary/ACOdyssey_STD_Store_Portrait_1200x1600_1200x1600-3add642bad2d1207487527d53d715220?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Assassins Creed Odyssey Standard Edition",
+      "offer": "-80%",
+      "actualPrice": "₹2,999",
+      "sellingPrice": "₹599.80",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/7d8a276af1cf4d09be7337cc7f34ee2a/spingun-6ek3h.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "sellingPrice": "₹69",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/451a12c0139f4057afdb5c9f546b29a3/scathe-x61rf.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "offer": "-33%",
+      "actualPrice": "₹589",
+      "sellingPrice": "₹394.63",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/e3e1dbeede5a471c9932edb2f7b99f51/EGS_Outlast2_RedBarrels_S2_1200x1600-b84f788e04780de2edf02ac003246e4b?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Outlast 2",
+      "offer": "-85%",
+      "actualPrice": "₹709",
+      "sellingPrice": "₹106.35",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Watch Dogs 2 Standard Edition",
+      "offer": "-85%",
+      "actualPrice": "₹3,499",
+      "sellingPrice": "₹524.85",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/d269ca53264246ea8144cba5b2168abc/layers-of-fears-s0q1c.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Layers of Fear",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-1s8b7.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Grand Theft Auto V: Premium Edition",
+      "offer": "-50%",
+      "actualPrice": "₹2,321.44",
+      "sellingPrice": "₹1,160.72",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/valtall_1200x1600-300d8e4cb9bee9dbb1166b574b3bdc93?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "sellingPrice": "Free",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/a2dcbb9e34204bda9da8415f97b3f4ea/EPIC1200x1600-EN_1200x1600-655b26e317c90057d360900063f9be22?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Honkai: Star Rail",
+      "sellingPrice": "Free",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/3428aaab2c674c98b3acb789dcfaa548/EGS_FalloutNewVegasUltimateEdition_ObsidianEntertainment_Editions_S2_1200x1600-45b1c7c6093bfc78539a8faeead2c929?h=480&quality=medium&resize=1&w=360",
+      "gameType": "EDITION",
+      "name": "Fallout: New Vegas - Ultimate Edition",
+      "sellingPrice": "₹899",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/2c42520d342a46d7a6e0cfa77b4715de/StoreVertical1200x16001_1200x1600-c3984f399a98d62bc56770577508b890?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Dying Light Enhanced Edition",
+      "offer": "-70%",
+      "actualPrice": "₹899",
+      "sellingPrice": "₹269.70",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/0c6aee83b9b64372bf44a043001325f2/EGS_NARAKABLADEPOINT_24Entertainment_S2_1200x1600-88f4e1f1ee1ffa8f7a85bf4e3a492e7e?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "NARAKA: BLADEPOINT",
+      "sellingPrice": "₹1,199",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Red Dead Redemption 2",
+      "offer": "-67%",
+      "actualPrice": "₹3,199",
+      "sellingPrice": "₹1,055.67",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S2_1200x1600-c806355d9cc8b35ebe392f2a7db03075?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "EA SPORTS™ FIFA 23 Standard Edition",
+      "offer": "-70%",
+      "actualPrice": "₹3,499",
+      "sellingPrice": "₹1,049.70",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Among Us",
+      "sellingPrice": "₹119",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/download-bloons-td-6-offer-100fo.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Bloons TD 6",
+      "offer": "-50%",
+      "actualPrice": "₹699",
+      "sellingPrice": "₹349.50",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAU_Triterniondoo_S2_1200x1600-3c795e67d44f02e4127ed4df435560f3?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "sellingPrice": "₹1,069",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/offer/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S2-1200x1600-11d040719a8457bbf36cabbe89b200db.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "STAR WARS™ Battlefront™ II: Celebration Edition",
+      "offer": "-75%",
+      "actualPrice": "₹2,499",
+      "sellingPrice": "₹624.75",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S2-1200x1600-753257537706de74735d2bc3eb656b67.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Cities: Skylines",
+      "offer": "-70%",
+      "actualPrice": "₹1,300",
+      "sellingPrice": "₹390",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/236c74b4cd2e4e3099cbe2ebdc9686fd/EGS_DeadIsland2_DeepSilverDambusterStudios_S2_1200x1600-efc5201842cf642eb45f73227cd0789b?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Dead Island 2",
+      "offer": "-20%",
+      "actualPrice": "₹3,299",
+      "sellingPrice": "₹2,639.20",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/7baccfc4db7e49e9a477f709ce30b1e4/starlight-x2-galactic-puzzles-1crag.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Starlight X-2 Galactic Puzzles",
+      "sellingPrice": "₹249",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/f5ddb9c079e54fdaa8d9b2d702783ab2/rift-rangers-1h0cc.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Rift Rangers",
+      "sellingPrice": "₹179",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/54b11a9cf0b742348c7c344204523b69/return-to-abyss-18ze1.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Return to Abyss 重返深渊",
+      "sellingPrice": "₹250",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/94a192c43a40421c942c57c99e005fcf/battle-ram-99i10.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Battle Ram",
+      "offer": "-20%",
+      "actualPrice": "₹139",
+      "sellingPrice": "₹111.20",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/7d8a276af1cf4d09be7337cc7f34ee2a/spingun-6ek3h.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "sellingPrice": "₹69",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/5016e6a57ef14c9ca2b36c8287624985/poi-1rv1q.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "sellingPrice": "₹359",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/964f58c4c2074404bf9c359483ab1a48/EGS_MidnightGhostHunt_VaultedSkyGames_S2_1200x1600-d7dc1bb773a7ec5987e756f53219fa16?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Midnight Ghost Hunt",
+      "offer": "-100%",
+      "actualPrice": "₹719",
+      "sellingPrice": "Free",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/3428aaab2c674c98b3acb789dcfaa548/EGS_FalloutNewVegas_ObsidianEntertainment_S2_1200x1600-866fe8b8f56e2e7bb862c49bf0627b9a?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Fallout: New Vegas",
+      "sellingPrice": "₹449",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/7b5f207bd1b54f8480e0c87f499b4072/match-village-1pbcy.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Match Village",
+      "offer": "-30%",
+      "actualPrice": "₹139",
+      "sellingPrice": "₹97.30",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/d5ae5356897745d7b1ba6dd893599ec1/the-house-of-da-vinci-105xv.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The House of Da Vinci",
+      "sellingPrice": "₹719",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/16ceb5cfc78b40a2a57f600af78dac46/zerog-gunfight-v9g00.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Zero-G Gunfight",
+      "sellingPrice": "₹179",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/10f941dba7c24063ab704437d35a9394/the-cullfield-ritual-1acok.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Cullfield Ritual",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/e49aaa31c1324e398e0b1029a0c6d390/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0_1200x1600-45f2ccbf4fcbf71a059499d0742229f0?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "System Shock",
+      "sellingPrice": "₹2,199",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/91096c8b7e764f01b45f61a0085bcd70/return-to-grace-pr92f.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Return to Grace",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/4b25af3b12dd4392b661d412fb8b29f4/shame-legacy-1r5u3.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Shame Legacy",
+      "sellingPrice": "₹899",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S2_1200x1600-c12cdcc2cac330df2185aa58c508e820?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Genshin Impact",
+      "sellingPrice": "Free",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/d2d162953fec40e381867d7af8371362/EGS_HonkaiImpact3rd_miHoYoLimited_S2_1200x1600-1b38bfc22a3cbe6a187573afb4811860?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Honkai Impact 3rd",
+      "sellingPrice": "Free",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/06a97980aac14fdfb914ef603a113792/EGS_StarTrekOnline_CrypticStudios_S2_1200x1600-0392a825adaf42945430e47aaf0bad22?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Star Trek Online",
+      "sellingPrice": "Free",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/FR_Bungie_Destiny2_S2_1200x1600_1200x1600-c04030c570b63cdced320be0f88a9f89?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Destiny 2",
+      "sellingPrice": "Free",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-e17cc2e856bac7771a7e6074ac02db0b?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "PC Building Simulator 2",
+      "offer": "-20%",
+      "actualPrice": "₹2,080",
+      "sellingPrice": "₹1,664",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S2_1200x1600-c806355d9cc8b35ebe392f2a7db03075?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "EA SPORTS™ FIFA 23 Standard Edition",
+      "offer": "-70%",
+      "actualPrice": "₹3,499",
+      "sellingPrice": "₹1,049.70",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/9afbc4780d874152a1c66d5fec0967d4/offer/EGS_Northgard_ShiroGames_S2-1200x1600-d08076964e47b86e1a7e7114706c3d7a.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "sellingPrice": "₹709",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S2-1200x1600-753257537706de74735d2bc3eb656b67.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Cities: Skylines",
+      "offer": "-70%",
+      "actualPrice": "₹1,300",
+      "sellingPrice": "₹390",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/244aaaa06bfa49d088205b13b9d2d115/EGS_Warframe_DigitalExtremes_S2_1200x1600-97f3127df923ebbdfc6d8ce29c07189f?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "sellingPrice": "Free",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/valtall_1200x1600-300d8e4cb9bee9dbb1166b574b3bdc93?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "sellingPrice": "Free",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S2_1200x1600-a1c30209e3b9fb63144daa9b5670f503?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Dead by Daylight",
+      "sellingPrice": "₹749",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/7e2ec8a47b8d41528eb6dd2efd2b1abc/StandardTall_1200x1600-7cb2cda8741f9b56a4c1cbb3e7dc9b3e?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Disney Dreamlight Valley",
+      "offer": "-25%",
+      "actualPrice": "₹1,624",
+      "sellingPrice": "₹1,218",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/a93cd6111251461c953776a0c4ea4d80/EGS_GhostwireTokyoTall_1200x1600-7b8a36d1dfe782ed625e6c6bba487df9?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Ghostwire: Tokyo",
+      "offer": "-60%",
+      "actualPrice": "₹2,499",
+      "sellingPrice": "₹999.60",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/f698d5d792654ac99f47d67e93916bef/EGS_CenturyAgeofAshes_Playwing_S2_1200x1600-2323ed2cf0497b1848d440511cf6a3c9?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Century: Age of Ashes",
+      "sellingPrice": "Free",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/LoL_1200x1600-15ad6c981af8d98f50e833eac7843986?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "League of Legends",
+      "sellingPrice": "Free",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/download-pubg-battlegrounds-offer-1er5e.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "PUBG: BATTLEGROUNDS",
+      "sellingPrice": "Free",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Callisto Protocol",
+      "offer": "-40%",
+      "actualPrice": "₹2,499",
+      "sellingPrice": "₹1,499.40",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/16ceb5cfc78b40a2a57f600af78dac46/zerog-gunfight-v9g00.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Zero-G Gunfight",
+      "sellingPrice": "₹179",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/f4506fc67be84cc3b2be5996fab58ccc/shop-tycoon--prepare-your-wallet-esdc6.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Shop Tycoon - Prepare Your Wallet",
+      "sellingPrice": "₹209",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/72dd01a89ebf422680cf3f228c9728fd/bob-a-thousand-lives-1h4q7.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Bob A thousand lives - Enhanced Edition",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/3a08fc3d6c1944db8c46a3ca90ffc880/heroes-of-shaola-ow2ya.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Heroes of Shaola",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/0a45b5f02f6d4c8bab67884a7e95ee0a/jennifer-wilde-unlikely-revolutionaries-1gsar.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Jennifer Wilde Unlikely Revolutionaries",
+      "category": "Racing"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/3e80f09693f0463bbdf014ccade99ecc/the-dark-tower-1pv4y.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Dark Tower",
+      "category": "Killer"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/e7a7215121c242e29d6f3b69d661b918/cepheus-protocol-gxnee.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Cepheus Protocol",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/e813cc0444724fdda161989fa1c27510/beach-invasion-1944-1g79x.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Beach Invasion 1944",
+      "category": "Ficton"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/10f941dba7c24063ab704437d35a9394/the-cullfield-ritual-1acok.png?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "The Cullfield Ritual",
+      "category": "Action"
+    },
+    {
+      "picture": "https://cdn1.epicgames.com/spt-assets/8c7ab503bfd44e6e9914e5894b2b81ec/everdream-valley-1osr1.jpg?h=480&quality=medium&resize=1&w=360",
+      "gameType": "BASE GAME",
+      "name": "Everdream Valley",
+      "sellingPrice": "₹999",
+      "category": "Action"
     }
   ]
 }

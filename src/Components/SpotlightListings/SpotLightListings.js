@@ -1,25 +1,21 @@
 import React from "react";
+import { useDispatch } from "react-redux";
+import { saveGameToWishlist } from "../../Redux/Reducers/wishlist.reducer";
+import GameCardOne from "../Cards/GameCardOne";
 
-export default function SpotLightListings({ data = [] }) {
+export default function SpotLightListings({ title = "", data = [] }) {
+  const dispatcher = useDispatch();
   return (
     <div className="spotlight-listings-container">
-      <p>Mega Sale Spotlight</p>
+      <p>{title}</p>
       <div className="game-card-listings">
         {data.map((d, i) => (
-          <div className="game-card">
-            <img src={d.picture} />
-            <div className="game-content">
-              <h4 className="gameType">{d.gameType}</h4>
-              <h2 className="gameName">{d.name}</h2>
-              <div className="gameOffersContainer">
-                <p className="offer">{d.offer}</p>
-                <div className="pricing">
-                  <p className="actualPrice">₹{d.actualPrice}</p>
-                  <p className="sellingPrice">₹{d.sellingPrice}</p>
-                </div>
-              </div>
-            </div>
-          </div>
+          <GameCardOne
+            data={d}
+            key={`${title}-Game-Card-${i}`}
+            dispatcher={dispatcher}
+            callback={saveGameToWishlist}
+          />
         ))}
       </div>
     </div>

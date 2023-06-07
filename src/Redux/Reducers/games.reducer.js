@@ -4,6 +4,11 @@ const gamesSlice = createSlice({
   name: "games",
   initialState: {
     games: [],
+    Racing: [],
+    Ficton: [],
+    Action: [],
+    Killer: [],
+    Battle: [],
   },
   reducers: {
     saveGames: (state, action) => {
@@ -14,6 +19,11 @@ const gamesSlice = createSlice({
       if (action.payload) {
         state.games = [];
         state.games.push(...action.payload);
+        state.Racing = action.payload.filter((_d) => _d.category === "Racing");
+        state.Ficton = action.payload.filter((_d) => _d.category === "Ficton");
+        state.Action = action.payload.filter((_d) => _d.category === "Action");
+        state.Killer = action.payload.filter((_d) => _d.category === "Killer");
+        state.Battle = action.payload.filter((_d) => _d.category === "Battle");
       }
     },
   },

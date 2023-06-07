@@ -1,0 +1,32 @@
+// PROGRAM FOR WEB SCRAPING:
+// const gameCard = document.getElementsByClassName("css-g3jcms");
+// const gameDetails = [];
+// const gameCategory = ["Racing", "Ficton", "Action", "Killer", "Battle"];
+// function getRandomArbitrary(min, max) {
+// return Math.floor(Math.random() \* (max - min) + min);
+// }
+// for (let i = 0; i < gameCard.length; i++) {
+// const game = {};
+// const img = gameCard[i]
+// .querySelector("[data-testid=picture-image]")
+// ?.getAttribute("src");
+// const contentContainer = gameCard[i].getElementsByClassName("css-hkjq8i");
+// const gameType = contentContainer[0].querySelectorAll(
+// "div.css-r7q7qr span.css-25dfdw span"
+// )[0]?.innerText;
+// const gameName = contentContainer[0].querySelectorAll(
+// "div.css-n55ojx div.css-lgj0h8 div.css-rgqwpc"
+// )[0]?.innerText;
+// const offer = contentContainer[0].querySelector('.css-b0xoos')?.innerText;
+// const actualPrice = contentContainer[0].querySelector('.css-4jky3p')?.innerText;
+// const sellingPrice = contentContainer[0].querySelector('.css-119zqif')?.innerText;
+// game['picture'] = img;
+// game['gameType'] = gameType
+// game["name"] = gameName;
+// game['offer'] = offer
+// game["actualPrice"] = actualPrice;
+// game["sellingPrice"] = sellingPrice;
+// game["category"] = gameCategory[getRandomArbitrary(0, 4)]
+// gameDetails.push(game)
+// }
+// console.log(gameDetails)
