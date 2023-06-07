@@ -90,6 +90,21 @@
     overflow-x: scroll;
   }
 }
+
+.game-card-listings::-webkit-scrollbar {
+  width: 1em;
+}
+
+.game-card-listings::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.game-card-listings::-webkit-scrollbar-thumb {
+  background-color: #007aff;
+  outline: 1px solid rgb(7, 131, 255);
+  border-radius: 10px;
+}
+
 .game-card {
   position: relative;
   min-width: 210px;
